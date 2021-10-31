@@ -6,10 +6,10 @@
   "menu-items": [
     {
       "id": "94298",
-      "name": “Türk Kahvaltısı,
+      "name": “Türk Kahvaltısı",
       "position": 1,
       "images": [],
-      "price": “95”
+      "price": “95.00”
     },
     {
       "id": "94301",
@@ -28,7 +28,7 @@
     },
     {
       "id": "94307",
-      "name": “FED” Benedict,
+      "name": “FED Benedict",
       "position": 4,
       "images": [],
       "price": “38.00"
@@ -60,7 +60,7 @@
 
   {
     "id": "26600",
-    "name": “Burger “ve Sandviçler,
+    "name": “Burger ve Sandviçler",
     "position": "0",
     "menu-items": [
       {
