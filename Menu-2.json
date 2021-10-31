@@ -194,21 +194,21 @@
         "name": "Portekiz Salatası",
         "position": 28,
         "images": [],
-        "price": "245.00"
+        "price": "34.00"
       },
       {
         "id": "94343",
         "name": "Akdeniz Salatası",
         "position": 29,
         "images": [],
-        "price": "350.00"
+        "price": "30.00"
       },
       {
         "id": "94346",
         "name": "Sezar Salatası (M)",
         "position": 30,
         "images": [],
-        "price": "245.00"
+        "price": "25.00"
       }
     ]
   }
